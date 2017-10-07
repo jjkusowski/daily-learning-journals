@@ -25,4 +25,4 @@ High level roadmap and all the associated documents to help us.
 Merge conflict exercise with your project team.
 
 ## Lab and Team work
-We worked as a team through the merge conflict lab.  Then we worked on project ideas.
+We worked as a team through the merge conflict lab.  Then we worked on project ideas.  I think we've decided on a cat fighting game.  We assigned some tasks for the weekend and then called it a day.
